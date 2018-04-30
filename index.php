@@ -1,2 +1,2 @@
-<?php include_once("Users.html");
+<?php include_once("User.html");
 ?>
